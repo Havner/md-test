@@ -1,4 +1,4 @@
-<pre>
+<pre style="line-height: 90%;">
                               .lOXkoKl.         .cOKk;'
                                  ,xKMMMKd;.        'doNx
                               .:xx.oMMMMMMMMWNNWWNKk;cMMNl
