@@ -1,4 +1,13 @@
-<pre style="line-height: 90%;">
+<style media="screen" type="text/css">
+
+  pre {
+  line-height: 50%;
+  }
+  
+</style>
+
+<pre>
+
                               .lOXkoKl.         .cOKk;'
                                  ,xKMMMKd;.        'doNx
                               .:xx.oMMMMMMMMWNNWWNKk;cMMNl
@@ -35,4 +44,6 @@
       .WMMWxMMM;   KMMM:  KMMMx     .;dMMMW. oMMMO  .NMMMO  oMMMO   kMMMl   XMMM;
        oMMMMMMc   .MMMMXKWWMMMMK.NMXkkOMMMX  ;MMMMXKWWMMMo  xMMMo   KMMM;   MMMM.
         :xxxx;     'dO0Oo..dOOd. ,oxO00Od;    .dO0Oo..oxx'  .oxx'   'dxx.   ;dxx
+
+
 </pre>
